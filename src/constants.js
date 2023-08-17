@@ -19,7 +19,7 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
+  AAU,
   jobit,
   tripguide,
   threejs,
@@ -42,20 +42,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "React Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
+    title: "Angular Developer",
+    icon: creator,
   },
   {
-    title: "Backend Developer",
+    title: "Spring Boot Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Flutter Developer",
+    icon: mobile,
   },
 ];
 
@@ -198,12 +198,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "AAU online learning",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows students and teachers to share course material to add and take exams and assignments from home",
     tags: [
       {
-        name: "react",
+        name: "Angular",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Spring-boot",
         color: "blue-text-gradient",
       },
       {
@@ -211,11 +215,11 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: AAU,
     source_code_link: "https://github.com/",
   },
   {
