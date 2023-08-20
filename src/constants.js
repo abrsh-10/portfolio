@@ -19,9 +19,9 @@ import {
   starbucks,
   tesla,
   shopify,
-  AAU,
-  jobit,
-  tripguide,
+  aau,
+  aerofit,
+  fitness,
   threejs,
 } from "./assets";
 
@@ -219,49 +219,49 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: AAU,
+    image: aau,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Aero Fit Jerseys",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to search and buy club and country jerseys from where they are.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: aerofit,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Fitness App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An application that helps users be fit by providing exercices and healthy foods to them.",
     tags: [
       {
-        name: "nextjs",
+        name: "dart",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "flutter",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "UI",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: fitness,
     source_code_link: "https://github.com/",
   },
 ];

@@ -26,9 +26,9 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import AAU from "./AAU.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import aau from "./aau.png";
+import aerofit from "./aerofit.png";
+import fitness from "./fitness.png";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   shopify,
   starbucks,
   tesla,
-  AAU,
-  jobit,
-  tripguide,
+  aau,
+  aerofit,
+  fitness,
 };
