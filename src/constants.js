@@ -220,7 +220,7 @@ const projects = [
       },
     ],
     image: aau,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abrsh-10/student-page",
   },
   {
     name: "Aero Fit Jerseys",
@@ -241,7 +241,7 @@ const projects = [
       },
     ],
     image: aerofit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abrsh-10/Aero-Fit-jersey",
   },
   {
     name: "Fitness App",
@@ -262,7 +262,7 @@ const projects = [
       },
     ],
     image: fitness,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abrsh-10/Fitness-App",
   },
 ];
 
